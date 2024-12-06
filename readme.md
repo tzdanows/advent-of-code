@@ -13,7 +13,7 @@ go run cmd/main.go
   * EX: 
 ```go
     "Day2147": {
-        inputPath:  "2024-advent/Day2147/input.txt",
+        inputPath:  "2024-advent/Day2147/sampleInput.txt",
         solvePart1: Day2147.SolvePart1,
         solvePart2: Day2147.SolvePart2,
     },
@@ -26,5 +26,6 @@ go run cmd/main.go
 ```
 
 # links:
+- [🎅🎄🎁](https://adventofcode.com/)
 - https://blog.jetbrains.com/kotlin/2024/11/advent-of-code-2024-in-kotlin/
 - 
