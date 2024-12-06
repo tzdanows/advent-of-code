@@ -1,0 +1,14 @@
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
+go.work
+go.work.sum
+.env
+.idea/
+.vscode/
+.DS_Store
+*.swp
