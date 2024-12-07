@@ -48,7 +48,7 @@ func SolvePart1(input string) int {
 }
 
 // subproblems:
-// modifying Part1 since it's reusable up after turning the columns into arrays
+// modifying Part1 since it's reusable up until after turning the columns into arrays
 // fully loop the right list and store entries in a dictionary/hashmap
 // loop the left list while checking if they exist in dictionary, multiply by the count
 // add all values
