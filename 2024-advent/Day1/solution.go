@@ -15,7 +15,7 @@ import (
 // add all differences
 
 // sampledata: 11
-// input: 1970720
+// input: run it!
 
 func SolvePart1(input string) int {
 	var col1, col2 []int
@@ -54,7 +54,7 @@ func SolvePart1(input string) int {
 // add all values
 
 // sampledata: 31
-// input: 17191599
+// input: run it!
 
 func SolvePart2(input string) int {
 	var col1, col2 []int
